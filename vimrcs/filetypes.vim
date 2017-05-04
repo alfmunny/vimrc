@@ -21,6 +21,10 @@ au FileType python set cindent
 au FileType python set cinkeys-=0#
 au FileType python set indentkeys-=0#
 
+""""""""""""""""""""""""""""""
+" => Ruby section
+""""""""""""""""""""""""""""""
+" autocmd Filetype ruby setlocal tabstop=2 shiftwidth=2 expandtab
 
 """"""""""""""""""""""""""""""
 " => JavaScript section
